@@ -92,6 +92,7 @@
 
 - [**Cloudflare**](https://cloudflare.com) —— 提供全球任播 DNS / CDN / WAF
 - [**hello.ws**](https://hello.ws) —— 同团队维护的 SEO 工具站
+- [**厚浪域名**](https://github.com/houlangs/Newlangs4) —— UI参考
 - 所有在 GitHub 给我们点过 ⭐ 的朋友
 
 ---
